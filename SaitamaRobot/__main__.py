@@ -52,14 +52,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello, {}
-ɪ'ᴍ ʀʏᴏᴍᴇɴ ꜱᴜᴋᴜɴᴀ ᴛʜᴇ ᴄᴜʀꜱᴇ ᴋɪɴɢ.
+�𝓚𝓸𝓷𝓲𝓬𝓱𝓲𝔀𝓪 , {}
 
-ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰʀᴏᴍ ᴊᴜᴊᴜᴛꜱᴜ ᴋᴀɪꜱᴇɴ!!
+𝓘'𝓶 𝓡𝓾𝓴𝓲 𝓜𝓾𝓴𝓪𝓶𝓲 ,𝓽𝓱𝓮 𝓑𝓻𝓪𝓲𝓷 𝓸𝓯 𝓜𝓪𝓷𝓼𝓲𝓸𝓷..
 
-My love is [Prachi](https://t.me/MikuNakano04)
+𝓘'𝓶 𝓐𝓷𝓲𝓶𝓮 𝓽𝓱𝓮𝓶𝓮𝓭 𝓶𝓪𝓶𝓷𝓪𝓰𝓶𝓮𝓷𝓽 𝓫𝓸𝓽 𝓯𝓻𝓸𝓶 𝓽𝓱𝓮 𝓜𝓸𝓻𝓽𝓪𝓵 𝓜𝓪𝓷𝓼𝓲𝓸𝓷!
 
-You can find the list of available commands with /help
+
+★ ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴛʜᴇ ʟɪꜱᴛ ᴏꜰ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪᴛʜ /ʜᴇʟᴘ ★
 """
 
 HELP_STRINGS = """
